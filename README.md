@@ -1,2 +1,2 @@
 # weather-app
-Displays the weather of the user's current location
+Uses a weather API to display the weather of the user's current location
